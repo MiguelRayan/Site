@@ -1,0 +1,167 @@
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+
+ul {
+    padding: 0px!important;
+}
+
+.Menu-principal {
+    width: 100%;
+    background-color: #252323;
+    height: 100px;
+}
+
+main {
+    margin: 0 auto;
+    width: 2000px;
+    position: relative;
+}
+
+.logo {
+    float: left;
+    padding: 5px;
+}
+
+.redes-sociais ul li{
+    display: inline-block;
+    margin-left: 35px;
+    float: left;
+    list-style: none;
+}
+
+.redes-sociais {
+    width: 13%;
+    float: right;
+}
+
+.header-2 {
+    background-color: #ffffff;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.menu-urls {
+    border-bottom: 5px solid #efefef;
+    height: 50px;
+}
+
+.menu ul li{
+    display: inline-block;
+    color: #8b8b8b;
+    margin-left: 6%;
+}
+
+.menu ul li:hover{
+    border-bottom: 3px solid #fcb900;
+    height: 25px;
+}
+
+.menu ul li a {
+    color: #333030;
+    text-decoration: none;
+    font-size: .8em;
+    text-transform: uppercase;
+    font-family: "Roboto", sans-serif !important;
+}
+
+.menu ul li a:hover{
+    color: #fcb900;
+}
+
+.menu {
+    width: 80%;
+    margin-left: 65px;
+    float: left;
+}
+
+.busca {
+    text-align: center;
+    width: 13%;
+    float: right;
+    margin-right: 80px;
+}
+
+.busca input {
+    background-image: url('../img/logo-pesquisa.png');
+    background-repeat: no-repeat;
+    background-position: right;
+    border: 1px solid #333030;
+    width: 190px;
+    height: 35px;
+    margin-right: 50px;
+    padding: 5px;
+}
+
+.col-100 {
+    width: 100%;
+    float: left;
+    position: relative;
+}
+
+.Elenco {
+    display: inline-block;
+    padding: 10px;
+    font-size: 20px;
+    
+    .Galo-doido{
+        margin-top: 10px;
+        width: 30%;
+        border: 3px solid #333030;
+        color: #fcb900;
+    }
+    .Gabriel-Milito{
+        width: 30%;
+        border: 3px solid #333030;
+    }
+    .Hulk{
+        width: 30%;
+        border: 3px solid #333030;
+    }
+    .Paulinho{
+        width: 30%;
+        border: 3px solid #333030;
+    }
+    .Vargas{
+        width: 30%;
+        border: 3px solid #333030;
+    }
+    .Arana{
+        width: 30%;
+        border: 3px solid #333030;
+    }
+    .Otávio{
+        width: 30%;
+        border: 3px solid #333030;
+    }
+    .Bernard{
+        width: 30%;
+        border: 3px solid #333030;
+    }
+    .Scarpa{
+        width: 30%;
+        border: 3px solid #333030;
+    }
+    .Saravia{
+        width: 30%;
+        border: 3px solid #333030;
+    }
+    .Battaglia{
+        width: 30%;
+        border: 3px solid #333030;
+    }
+    .Fuchs{
+        width: 30%;
+        border: 3px solid #333030;
+    }
+    .Everson{
+        width: 30%;
+        border: 3px solid #333030;
+    }
+}
+
+.num {
+    color: red;
+}
